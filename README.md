@@ -2,6 +2,7 @@
 Arduino code to control multiple sensors and write data to an SD card.
 
 Hardware used...
+  - Arduino Uno
   - BMP180 Barometric Pressure gage
   - Basic SD card module
   - 5V heat pad (lots of them out there)
