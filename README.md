@@ -11,3 +11,4 @@ Hardware used...
 The objective was to create a box where we monitored heat and kept it within a certain range.
 We also wanted to monitor the pressure inside the box. 
 The purpose being to ensure plants inside had good growing conditions during the ballon flight.
+The 160 poster.pdf has more information.
